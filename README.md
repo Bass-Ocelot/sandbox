@@ -1,2 +1,7 @@
 # sandbox
-a git sandbox to play around and fuck shit up
+a git sandbox
+
+Type whatever 
+
+qwertyuiopasdfghjklzxcvbnm
+Changes made. File staged and committed. :D
